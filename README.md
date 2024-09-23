@@ -91,11 +91,24 @@ lib/
 │   ├── student_data_json.dart
 │   └── user_data_json.dart
 │
+│── models/
+│   ├──person_model.dart
+│
+│── providers/
+│   ├── data_providers.dart
+│
+│── screens/
+│   │── first_screen.dart
+│   │── second_screen.dart
+│
 ├── models/
 │   └── person_model.dart
 │
-├── api_services.dart     # Contains the Isolate logic and API service methods
-└── main.dart             # Entry point for the demo
+├── services/
+│   │── api_services.dart     # Contains the Isolate logic and API service methods
+│   │── service_locator.dart 
+│
+└── main.dart                 # Entry point for the demo
 ```
 
 ### Explanation
