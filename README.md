@@ -35,8 +35,8 @@ Before you can run the project, ensure that you have the following installed on 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/risfat/Dart_Isolates_for_Parallel_API_Calls-Demo.git
-   cd Dart_Isolates_for_Parallel_API_Calls-Demo
+   git clone https://github.com/risfat/dart_isolates_for_parallel_api_calls-demo.git
+   cd dart_isolates_for_parallel_api_calls-demo
    ```
 
 2. **Install Dependencies**
