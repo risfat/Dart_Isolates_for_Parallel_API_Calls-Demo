@@ -2,7 +2,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:isolates_demo/models/person_model.dart';
 import 'package:isolates_demo/services/api_services.dart';
-import 'package:isolates_demo/services/service_locatror.dart';
+import 'package:isolates_demo/services/service_locator.dart';
 
 class DataProvider extends ChangeNotifier {
   final ApiServices _apiService = serviceLocator<ApiServices>();

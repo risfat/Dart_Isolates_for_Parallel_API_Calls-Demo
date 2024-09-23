@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:isolates_demo/providers/data_providers.dart';
 import 'package:isolates_demo/screens/first_screen.dart';
-import 'package:isolates_demo/services/service_locatror.dart';
+import 'package:isolates_demo/services/service_locator.dart';
 import 'package:provider/provider.dart';
 
 void main() {
